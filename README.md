@@ -13,3 +13,4 @@ Here is a list of ideas that I would like to work on but don't necessarily have 
   * 50 Questions - web based 50 questions game
   * Social Coder Mashup - combine the following: [Open Source Report Card](http://osrc.dfm.io/), [GitHub Resume](http://resume.github.io/), recommendations on [LinkedIn](https://developer.linkedin.com/apis) (maybe?)
   * Application Logs Analytics - do some data mining to make application logs more informative and intelligent.
+  * Superfluous Questions - interstitial questions during loading times.
